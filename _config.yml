@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aarti Malik"
+title                    : "Sanjog Rajiv"
 title_separator          : "-"
-name                     : &name "Aarti Malik"
+name                     : &name "Sanjog Rajiv"
 description              : &description "M.A. Economics Student, Department of Economics, Delhi School of Economics"
-url                      : https://aartimalik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sanjograjiv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aartimalik/aartimalik.github.io"
+repository               : "sanjograjiv/sanjograjiv.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aarti Malik"
-  avatar           : "aarti_web.jpg"
+  name             : "Sanjog Rajiv"
+  avatar           : "sanjiv_web.jpg"
   bio              : "M.A. Economics Student, Department of Economics, Delhi School of Economics"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "aartimalik96@gmail.com"
+  email            : "rajivsanjog27@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aartimalik"
+  github           : "sanjograjiv"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/aarti-malik-73935b121/"
+  linkedin         : "https://www.linkedin.com/in/sanjog-rajiv-185705147/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aarti_pepa"
+  twitter          : "sanjog_rajiv"
   vine             :
   weibo            :
   xing             :
